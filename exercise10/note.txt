@@ -1,0 +1,4 @@
+La versión 01 del ejercicio implementa directamente la descripción brindada en el diagrama de flujo.
+
+La versión 02 del ejercicio interpreta el diagrama de flujo e implementa la conmutación del LED en una sola
+línea de código. 
