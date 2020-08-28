@@ -1,5 +1,5 @@
 /*
-Ejercicio 09:
+Ejercicio 01:
 Conectar un pulsador a uno de los pines del microcontrolador, y conectar un
 LED a otro pin. Luego, escribir un programa que haga que el pulsador se
 comporte como un botón ON/OFF: Si el LED se encuentra apagado, al presionar
